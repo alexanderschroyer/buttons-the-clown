@@ -25,7 +25,7 @@ export const Reservations = () => {
             ${reservation.neededBy}
             <button class="reservation__delete"
                     id="reservation--${reservation.id}">
-                Delete
+                Deny
             </button>
         </li>`
     })
