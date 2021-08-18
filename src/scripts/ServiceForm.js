@@ -16,10 +16,10 @@ mainContainer.addEventListener("click", clickEvent => {
         const dataToSendToAPI = {
             parentName: userParentName,
             childName: userChildName,
-            guests: userGuests,
+            guests: parseInt(userGuests),
             address: userAddress,
             neededBy: userDate,
-            hoursNeeded: userHoursNeeded
+            hoursNeeded: parseInt(userHoursNeeded)
         }
 
         // Send the data to the API for permanent storage

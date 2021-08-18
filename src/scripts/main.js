@@ -6,12 +6,12 @@ import { Buttons } from "./Buttons.js"
 
 const mainContainer = document.querySelector("#container")
 
-mainContainer.addEventListener(
-    "stateChanged",
-    customEvent => {
-        render()
-    }
-)
+// mainContainer.addEventListener(
+//     "stateChanged",
+//     customEvent => {
+//         render()
+//     }
+// )
 
 const render = () => {
     fetchRequests().then(

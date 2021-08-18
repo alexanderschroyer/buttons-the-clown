@@ -1,5 +1,193 @@
 {
-  "clowns": [],
-  "completions": [],
-  "reservations": []
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Mike"
+    },
+    {
+      "id": 2,
+      "name": "Leslie"
+    }
+  ],
+  "completions": [
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:47:06 GMT-0500 (Central Daylight Time)",
+      "id": 1
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:47:11 GMT-0500 (Central Daylight Time)",
+      "id": 2
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:47:13 GMT-0500 (Central Daylight Time)",
+      "id": 3
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:47:15 GMT-0500 (Central Daylight Time)",
+      "id": 4
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:47:56 GMT-0500 (Central Daylight Time)",
+      "id": 5
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:50:36 GMT-0500 (Central Daylight Time)",
+      "id": 6
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:50:38 GMT-0500 (Central Daylight Time)",
+      "id": 7
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:50:48 GMT-0500 (Central Daylight Time)",
+      "id": 8
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:50:50 GMT-0500 (Central Daylight Time)",
+      "id": 9
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:52:59 GMT-0500 (Central Daylight Time)",
+      "id": 10
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:46 GMT-0500 (Central Daylight Time)",
+      "id": 11
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:47 GMT-0500 (Central Daylight Time)",
+      "id": 12
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:48 GMT-0500 (Central Daylight Time)",
+      "id": 13
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:48 GMT-0500 (Central Daylight Time)",
+      "id": 14
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:49 GMT-0500 (Central Daylight Time)",
+      "id": 15
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:50 GMT-0500 (Central Daylight Time)",
+      "id": 16
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:50 GMT-0500 (Central Daylight Time)",
+      "id": 17
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:51 GMT-0500 (Central Daylight Time)",
+      "id": 18
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:52 GMT-0500 (Central Daylight Time)",
+      "id": 19
+    },
+    {
+      "clownId": null,
+      "partyNumber": null,
+      "date": "Wed Aug 18 2021 13:53:53 GMT-0500 (Central Daylight Time)",
+      "id": 20
+    },
+    {
+      "clownId": null,
+      "partyNumber": 1,
+      "date": "Wed Aug 18 2021 13:55:49 GMT-0500 (Central Daylight Time)",
+      "id": 21
+    },
+    {
+      "clownId": null,
+      "partyNumber": 2,
+      "date": "Wed Aug 18 2021 14:02:26 GMT-0500 (Central Daylight Time)",
+      "id": 22
+    },
+    {
+      "clownId": null,
+      "partyNumber": 2,
+      "date": "Wed Aug 18 2021 14:02:27 GMT-0500 (Central Daylight Time)",
+      "id": 23
+    },
+    {
+      "clownId": null,
+      "partyNumber": 1,
+      "date": "Wed Aug 18 2021 14:02:34 GMT-0500 (Central Daylight Time)",
+      "id": 24
+    },
+    {
+      "clownId": null,
+      "partyNumber": 1,
+      "date": "Wed Aug 18 2021 14:02:35 GMT-0500 (Central Daylight Time)",
+      "id": 25
+    },
+    {
+      "clownId": null,
+      "partyNumber": 1,
+      "date": "Wed Aug 18 2021 14:02:35 GMT-0500 (Central Daylight Time)",
+      "id": 26
+    },
+    {
+      "clownId": null,
+      "partyNumber": 1,
+      "date": "Wed Aug 18 2021 14:02:36 GMT-0500 (Central Daylight Time)",
+      "id": 27
+    },
+    {
+      "clownId": null,
+      "partyNumber": 1,
+      "date": "Wed Aug 18 2021 14:02:36 GMT-0500 (Central Daylight Time)",
+      "id": 28
+    }
+  ],
+  "reservations": [
+    {
+      "parentName": "Alex Schroyer",
+      "childName": "Linley Schroyer",
+      "guests": "12",
+      "address": "2604 Mayfield Street Northport, AL 35475",
+      "neededBy": "2021-10-10",
+      "hoursNeeded": "2",
+      "id": 1
+    }
+  ]
 }
